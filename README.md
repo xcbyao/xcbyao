@@ -9,3 +9,12 @@ Do you want to try it too?
 >Something for nothing.
 
 Adhere to the fitness,and try to do one horse in a week.
+
+- Higher Mathematics ✔
+- English Listening ✔
+- Computer Programming
+  - C Primer Plus ✔
+- Novel releasing ✔
+- Self-discipline ✔
+
+4/29/2020
