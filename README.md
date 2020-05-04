@@ -6,8 +6,6 @@ But no matter what, I think this is a good idea and the effect is quite good.
 
 Do you want to try it too?
 
->Something for nothing.
-
 Adhere to the fitness,and try to do one horse in a week.
 
 - Higher Mathematics ✔
