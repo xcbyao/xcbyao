@@ -22,4 +22,5 @@ Adhere to the fitness,and try to do one horse in a week.
 - 5/5/2020
 - 5/6/2020
 - 5/7/2020
+- 5/8/2020
 - 
