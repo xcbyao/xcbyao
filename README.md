@@ -4,10 +4,6 @@ Don't know and didn't like me using **release** or **tag** as a log to record my
 
 But no matter what, I think this is a good idea and the effect is quite good.
 
-Do you want to try it too?
-
-Adhere to the fitness,and try to do one horse in a week.
-
 - Higher Mathematics ✔
 - English Listening ✔
 - Computer Programming
@@ -26,4 +22,6 @@ Adhere to the fitness,and try to do one horse in a week.
 - 5/9/2020
 - 5/10/2020
 - 5/12/2020
-- 5/
+- 5/13/2020
+- 5//2020
+- 
