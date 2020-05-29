@@ -39,8 +39,8 @@ But no matter what, I think this is a good idea and the effect is quite good.
 - 5/27/2020
 - 5/28/2020
 - 5/29/2020
+- 5/30/2020
 - 5//2020
-- 5//2020
-- 5//2020
-- 5//2020
-- 5//2020
+- 6//2020
+- 6//2020
+- 6//2020
