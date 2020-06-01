@@ -42,5 +42,5 @@ But no matter what, I think this is a good idea and the effect is quite good.
 - 5/30/2020
 - 5/31/2020
 - 6/1/2020
-- 6//2020
+- 6/2/2020
 - 6//2020
