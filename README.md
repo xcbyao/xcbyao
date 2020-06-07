@@ -46,8 +46,8 @@ But no matter what, I think this is a good idea and the effect is quite good.
 - 6/3/2020
 - 6/4/2020
 - 6/5/2020
-- 6//2020
-- 6//2020
+- 6/6/2020
+- 6/7/2020
 - 6//2020
 - 6//2020
 - 6//2020
