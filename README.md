@@ -52,7 +52,7 @@ But no matter what, I think this is a good idea and the effect is quite good.
 - 6/9/2020
 - 6/10/2020
 - 6/11/2020
-- 6//2020
+- 6/12/2020
 - 6//2020
 - 6//2020
 - 6//2020
