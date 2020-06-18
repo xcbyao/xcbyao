@@ -63,7 +63,3 @@ But no matter what, I think this is a good idea and the effect is quite good.
 - 6//2020
 - 6//2020
 - 6//2020
-`d`
-```C
-efsfe
-```
