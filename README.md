@@ -1,7 +1,7 @@
 # 📋 English Learning Log
 ### 📝 Recording my learning process 🎯
 
-### 📅 Profcessing Time:
+### 📅 Processing Time:
 ✔ 4/30/2020-6/20/2020
 ⭕ 4/21
 
