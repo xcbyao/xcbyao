@@ -2,7 +2,7 @@
 ### 📝 Recording my learning process 🎯
 
 ### 📅 Processing Time:
-✔ 4/30/2020-6/23/2020
+✔ 4/30/2020-6/24/2020
 
 ⭕ 4/2
 
