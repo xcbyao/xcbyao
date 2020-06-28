@@ -2,9 +2,9 @@
 ### 📝 Recording my learning process 🎯
 
 ### 📅 Processing Time:
-✔ 4/30/2020-6/28/2020
+✔ 4/30/2020-6/27/2020
 
-⭕ 4/2
+⭕ 6/28
 
 ### Search：
 《New Concept English》
