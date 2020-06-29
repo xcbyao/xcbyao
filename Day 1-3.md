@@ -1,4 +1,5 @@
 ✔ Get up early
+
 Date: 6.28-6.30
 
 ## Lesson 1 A private conversation 私人谈话
