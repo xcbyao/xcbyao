@@ -1,4 +1,4 @@
-✔ Get up early
+✔ Early to bed and early to rise
 
 Date: 6.28-6.30
 
@@ -8,3 +8,4 @@ Last week I went to the theatre. I had a very good seat. The play was very inter
 
 'It's none of your business,' the young man said rudely. 'This is a private conversation!'
 
+## 
