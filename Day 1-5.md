@@ -1,6 +1,6 @@
 ✔ Early to bed and early to rise
 
-Date: 6.28-7.1
+Date: 6.28-7.2
 
 ## Lesson 1 A private conversation 私人谈话
 
