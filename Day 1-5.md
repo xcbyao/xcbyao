@@ -1,6 +1,6 @@
 ✔ Early to bed and early to rise
 
-##### Date: 6.28-7.2
+### Date: 6.28-7.2
 ## Lesson 1 A private conversation 私人谈话
 
 Last week I went to the theatre. I had a very good seat. The play was very interesting. I did not enjoy it. A young man and a young woman were sitting behind me. They were talking loudly. I got very angry. I could not hear the actors. I turned round. I looked at the man and the woman angrily. They did not pay any attention. In the end, I could not bear it. I turned round again. 'I can't hear a word!' I said angrily.
@@ -20,5 +20,5 @@ It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lu
 
 'Dear me,' she said. 'Do you always get up so late? It's one o'clock!'
 
-##### Date: 7.-7.
+#### Date: 7.-7.
 ## 
