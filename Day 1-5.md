@@ -7,7 +7,7 @@ Last week I went to the theatre. I had a very good seat. The play was very inter
 
 'It's none of your business,' the young man said rudely. 'This is a private conversation!'
 
-#####　Date：7.3－
+##### Date: 7.3-7.
 ## Lesson 2 Breakfast or lunch? 早餐还是午餐？
 
 It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lunchtime. Last Sunday I got up very late. I looked out of the window. It was dark outside. 'What a day!' I thought. 'It's raining again.' Just then, the telephone rang. It was my aunt Lucy. 'I've just arrived by train,' she said. 'I'm coming to see you.'
@@ -19,3 +19,6 @@ It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lu
 'I'm having breakfast,' I repeated.
 
 'Dear me,' she said. 'Do you always get up so late? It's one o'clock!'
+
+##### Date: 7.-7.
+## 
