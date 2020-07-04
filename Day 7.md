@@ -18,7 +18,7 @@ It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lu
 'I'm having breakfast,' I repeated.
 
 'Dear me,' she said. 'Do you always get up so late? It's one o'clock!'
-#### Date: 7.3-7.4
+#### Date: 7.3-7.5
 
 ## Lesson 3 Please send me a card 请给我寄一张明信片
 
