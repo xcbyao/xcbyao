@@ -28,7 +28,7 @@ Postcards always spoil my holidays. Last summer, I went to Italy. I visited muse
 ## Lesson 4 An exciting trip 激动人心的旅行
 
 I have just received a letter from my brother, Tim. He is in Australia. He has been there for six months. Tim is an engineer. He is working for a big firm and he has already visited a great number of different places in Australia. He has just bought an Australian car and has gone to Alice springs, a small town in the centre of Australia. He will soon visit Darwin. From there, he will fly to Perth. My brother has never been abroad before, so he is fending this trip very exciting.
-#### Date: 7.26-7.
+#### Date: 7.27-7.
 
 ## Lesson 5 No wrong numbers 无错号之虞
 
