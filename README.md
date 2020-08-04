@@ -1,4 +1,3 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xcbyao&hide=issues,contribs&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcbyao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
