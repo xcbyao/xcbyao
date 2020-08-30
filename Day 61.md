@@ -33,12 +33,12 @@ I have just received a letter from my brother, Tim. He is in Australia. He has b
 ## Lesson 5 No wrong numbers 无错号之虞
 
 Mr.James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst. Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons. Yesterday, a pigeon carried the first message from Pinhurst to Silbury. The bird covered the distance in three minutes. Up to now, Mr.Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other. In this way, he has begun his own private 'telephone' service.
-#### Date: 8.27-8.
+#### Date: 8.30-9.
 
 ## Lesson 6 Percy Buttons 珀西.巴顿斯
 
 I have just moved to a house in Bridge Street. Yesterday a beggar knocked at my door. He asked me for a meal and a glass of beer. In return for this, the beggar stood on his head and sang songs. I gave him a meal. He ate the food and drank the beer. Then he put a piece of cheese in his pocket and went away. Later a neighbour told me about him. Everybody knows him. His name is Percy Buttons. He calls at every house in the street once a month and always asks for a meal and a glass of beer.
-#### Date: 8.-8.
+#### Date: 9.-9.
 
 ## Lesson 7 Too late 为时太晚
 
