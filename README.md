@@ -1,4 +1,8 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xcbyao&show_icons=true&theme=highcontrast" />
+# 📋 Learning Log
+### 📝 Recording my learning process 🎯
+### 💝 Share the online books and other materials
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=xcbyao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📅 English Processing Time:
+✔ 4/30/2020-6/27/2020
 
+### Others
