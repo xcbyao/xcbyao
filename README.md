@@ -1,11 +1,6 @@
-
-### 📝 Recording my learning process 🎯
-### 💝 Share the online books and other materials
-
-<p align="center">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xcbyao&show_icons=true&theme=highcontrast">
-  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcbyao&layout=compact">
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcbyao&layout=compact">
   <br><br>
   <samp>
     :wave: Hey! Welcome to my profile
