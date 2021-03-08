@@ -1,6 +1,6 @@
 <p align="center" >
-  <br><br>:wave: Hey! Welcome to my profile
-  <br><br>
+  :wave: Hey! Welcome to my profile
+  
   <img src="https://github-readme-stats.vercel.app/api?username=xcbyao&show_icons=true&theme=highcontrast">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcbyao&layout=compact">
