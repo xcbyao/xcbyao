@@ -1,4 +1,4 @@
-<img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=xcbyao&show_icons=true&theme=highcontrast">
+<img align="left" width="440px" src="https://github-readme-stats.vercel.app/api?username=xcbyao&show_icons=true&theme=highcontrast">
 <img align='right' width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcbyao&layout=compact">
 
 ### 📝 Recording my learning process 🎯
