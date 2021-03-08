@@ -1,5 +1,5 @@
-<img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=xcbyao&show_icons=true&theme=highcontrast">
-<img align='right' width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcbyao&layout=compact">
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=xcbyao&show_icons=true&theme=highcontrast">
+<img align='right' width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcbyao&layout=compact">
 
 ### 📝 Recording my learning process 🎯
 ### 💝 Share the online books and other materials
