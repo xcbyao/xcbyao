@@ -1,4 +1,4 @@
-<h2 align="center">:wave: Hey! Welcome to my profile</h2>
+<h2 align="center">:wave: Hey, I'm Xcbyao.</h2>
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=xcbyao&show_icons=true&theme=highcontrast">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -9,4 +9,3 @@
 [![](https://github-readme-stats.vercel.app/api?username=xcbyao&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/xcbyao/xcbyao/output/github-contribution-grid-snake.svg)
