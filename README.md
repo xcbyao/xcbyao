@@ -8,3 +8,5 @@
 <!--
 [![](https://github-readme-stats.vercel.app/api?username=xcbyao&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/xcbyao/xcbyao/output/github-contribution-grid-snake.svg)
