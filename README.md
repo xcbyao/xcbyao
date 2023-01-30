@@ -6,5 +6,11 @@
   </a>
 </p>
 <!--
+
 [![](url)](url)
+
+<details>
+<summary><a href="https://">Pull Requests</a> & <a href="https://">Issues</a></summary>
+</details>
+
 -->
